@@ -26,6 +26,7 @@ mirko.ginocchi@eonerc.rwth-aachen.de
 
 MATPOWER: 
 R. D. Zimmerman, C. E. Murillo-Sanchez. MATPOWER User-s Manual, Version 7.1. 2020. [Online]. Available: https://matpower.org/docs/MATPOWER-manual-7.1.pdf
+
 Link to the repository: https://github.com/MATPOWER/matpower
 
 UQLAB: 
