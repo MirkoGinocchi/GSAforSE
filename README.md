@@ -26,6 +26,7 @@ mirko.ginocchi@eonerc.rwth-aachen.de
 
 MATPOWER: 
 R. D. Zimmerman, C. E. Murillo-Sanchez. MATPOWER User-s Manual, Version 7.1. 2020. [Online]. Available: https://matpower.org/docs/MATPOWER-manual-7.1.pdf
+Link to the repository: https://github.com/MATPOWER/matpower
 
 UQLAB: 
 UQLab: A Framework for Uncertainty Quantification in MATLAB, Stefano Marelli and Bruno Sudret, In The 2nd International Conference on Vulnerability and Risk Analysis and Management (ICVRAM 2014), University of Liverpool, United Kingdom, July 13-16, 2014, pp. 2554–2563. DOI: 10.1061/9780784413609.257
