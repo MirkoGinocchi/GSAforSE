@@ -14,8 +14,7 @@ LIST OF SUBROUTINES contained in "MAIN.m":
 
 4) Sensitivity analysis of total power losses, performed on IEEE 69-bus system: provides Sobol' indexes of total losses in the system. 13 different DG penetration levels are considered.
 
-BE ALWAYS SURE TO BE IN THE CORRECT PATH.
-MATPOWER, UQLAB AND PARALLEL COMPUTING TOOLBOX™ REQUIRED. PLACE THEIR FOLDERS IN THE "Mains" FOLDER AND MAKE SURE TO HAVE THEM INSTALLED.
+Be always sure to be in the correct path. MATPOWER, UQLab and Parallel Computing Toolbox™ required.
 
 CREDITS:
 Riccardo Scalabrin (riccardo.scalabrin@mail.polimi.it), Gianmarco Cocchi (gianmarco.cocchi@mail.polimi.it), Mirko Ginocchi (mirko.ginocchi@eonerc.rwth-aachen.de)
