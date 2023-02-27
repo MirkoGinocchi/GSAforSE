@@ -1,8 +1,7 @@
-# Codes to perform the analyses presented in the paper "Global Sensitivity Analysis of State Estimation for Power Distribution Systems".
+# Codes to perform the analyses presented in the paper "Global Sensitivity Analysis of State Estimation for Power Distribution Systems"
 
-MAIN ROUTINE 
-
-Codes to perform the analyses presented in the "Global Sensitivity Analysis of State Estimation for Power Distribution Systems" paper (to perform sensitivity analysis (SA) of state estimation (SE) and SE-based applications). 
+MAIN ROUTINE: 
+MAIN.m, which allows to perform sensitivity analysis (SA) of state estimation (SE) and SE-based applications. 
 
 LIST OF SUBROUTINES:
 
