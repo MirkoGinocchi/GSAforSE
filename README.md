@@ -1,9 +1,10 @@
 # Codes to perform the analyses presented in the paper "Global Sensitivity Analysis of State Estimation for Power Distribution Systems"
 
 MAIN ROUTINE: 
-MAIN.m, which allows to perform sensitivity analysis (SA) of state estimation (SE) and SE-based applications. 
 
-LIST OF SUBROUTINES:
+File "MAIN.m", which allows to perform sensitivity analysis (SA) of state estimation (SE) and SE-based applications. 
+
+LIST OF SUBROUTINES contained in "MAIN.m":
 
 1) Sensitivity analysis of SE performed on IEEE 6-bus system: provides Sobol' indexes of the estimates (voltage magnitudes and phase angles)
 
