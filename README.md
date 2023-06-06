@@ -27,11 +27,12 @@ UQLab: A Framework for Uncertainty Quantification in MATLAB, Stefano Marelli and
 
 The adopted WLS State Estimation algorithm is based on a function originally provided by: Praviraj PG (2022). Power System State Estimation using WLS (https://www.mathworks.com/matlabcentral/fileexchange/23052-power-system-state-estimation-using-wls), MATLAB Central File Exchange.
 
+[<img src="docs/workflow.png"  width="800" height="461">]
 
 ## Copyright
-2022-2023, Riccardo Scalabrin (riccardo.scalabrin@mail.polimi.it) <br/>
-2022-2023,Gianmarco Cocchi (gianmarco.cocchi@mail.polimi.it) <br/>
-2018-2023, Mirko Ginocchi (ACS) <br/>
+2021-2022, Riccardo Scalabrin (RWTH-ACS, POLITECNICO DI MILANO-DEIB) <br/>
+2021-2022, Gianmarco Cocchi (RWTH-ACS, POLITECNICO DI MILANO-DEIB) <br/>
+2018-2023, Mirko Ginocchi (RWTH-ACS) <br/>
 2023, Institute for Automation of Complex Power Systems, EONERC
 
 ## License
